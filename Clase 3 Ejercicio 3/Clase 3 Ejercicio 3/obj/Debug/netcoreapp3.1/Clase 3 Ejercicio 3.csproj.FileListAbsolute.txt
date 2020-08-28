@@ -1,0 +1,12 @@
+C:\Users\micie\source\repos\Clase 3 Ejercicio 3\Clase 3 Ejercicio 3\bin\Debug\netcoreapp3.1\Clase 3 Ejercicio 3.exe
+C:\Users\micie\source\repos\Clase 3 Ejercicio 3\Clase 3 Ejercicio 3\bin\Debug\netcoreapp3.1\Clase 3 Ejercicio 3.deps.json
+C:\Users\micie\source\repos\Clase 3 Ejercicio 3\Clase 3 Ejercicio 3\bin\Debug\netcoreapp3.1\Clase 3 Ejercicio 3.runtimeconfig.json
+C:\Users\micie\source\repos\Clase 3 Ejercicio 3\Clase 3 Ejercicio 3\bin\Debug\netcoreapp3.1\Clase 3 Ejercicio 3.runtimeconfig.dev.json
+C:\Users\micie\source\repos\Clase 3 Ejercicio 3\Clase 3 Ejercicio 3\bin\Debug\netcoreapp3.1\Clase 3 Ejercicio 3.dll
+C:\Users\micie\source\repos\Clase 3 Ejercicio 3\Clase 3 Ejercicio 3\bin\Debug\netcoreapp3.1\Clase 3 Ejercicio 3.pdb
+C:\Users\micie\source\repos\Clase 3 Ejercicio 3\Clase 3 Ejercicio 3\obj\Debug\netcoreapp3.1\Clase 3 Ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\micie\source\repos\Clase 3 Ejercicio 3\Clase 3 Ejercicio 3\obj\Debug\netcoreapp3.1\Clase 3 Ejercicio 3.AssemblyInfo.cs
+C:\Users\micie\source\repos\Clase 3 Ejercicio 3\Clase 3 Ejercicio 3\obj\Debug\netcoreapp3.1\Clase 3 Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\micie\source\repos\Clase 3 Ejercicio 3\Clase 3 Ejercicio 3\obj\Debug\netcoreapp3.1\Clase 3 Ejercicio 3.dll
+C:\Users\micie\source\repos\Clase 3 Ejercicio 3\Clase 3 Ejercicio 3\obj\Debug\netcoreapp3.1\Clase 3 Ejercicio 3.pdb
+C:\Users\micie\source\repos\Clase 3 Ejercicio 3\Clase 3 Ejercicio 3\obj\Debug\netcoreapp3.1\Clase 3 Ejercicio 3.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\micie\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\micie\\.nuget\\packages"
+    ]
+  }
+}
